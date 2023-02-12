@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "로쟁이에서 프로그래머가 되는 그날까지" # "Site Title"
+title                    : "로봇쟁이에서 프로그래머가 되는 그날까지" # "Site Title"
 title_separator          : "-"
 subtitle                 : "게임 프로그래밍 공부중" # site tagline that appears below site title in masthead
 name                     : "Sang Han, Choi" # "Your Name"
@@ -268,10 +268,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-categories:
-  - Programming Study
-  - Unity 
-  - Github blog
+
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
