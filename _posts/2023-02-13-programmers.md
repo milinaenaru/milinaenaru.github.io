@@ -1,6 +1,5 @@
 ---
 layout: single
-<<<<<<< HEAD
 title: "2023-02-12-programmers 문제 풀이"
 ---
 
